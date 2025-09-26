@@ -1,4 +1,4 @@
-# Data Analyst Portfolio 📊
+# Data Analyst Portfolio
 
 Halo, saya Dio Obriel Saragih.  
 Ini adalah portofolio data analyst saya, berisi project dan pembelajaran saya di bidang data.
